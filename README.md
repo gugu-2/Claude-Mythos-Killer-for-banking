@@ -54,3 +54,5 @@ Therefore, Aegis Sentinel uses:
 - **Moving Target Architecture**: The underlying infrastructure constantly changes shape.
 
 For a full breakdown of the defensive features, please read `FEATURES.md`.
+
+### Email me on majipritam47@gmail.com For any enquiry
